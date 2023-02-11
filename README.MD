@@ -17,8 +17,8 @@ $ git clone git@github.com:samsepi0ldev/insomnia-plugin-rose-pine.git
 
 1. In Insomnia, go to Application and select Preferences
 2. Click on Plugins
-3. Paste insomnia-plugin-rose-pine into the package name field
-4. Click on Install Plugin
+3. Click in Reveal Plugins Folder an past
+4. Paste folder insomnia-plugin-rose-pine inside the folder
 
 # Activating theme
 1. Go to Application and select Preferences
