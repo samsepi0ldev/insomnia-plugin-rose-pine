@@ -1,0 +1,31 @@
+{
+  "name": "insomnia-plugin-rose-pine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Unofficial Rose Pine theme. A dark theme for insomnia.",
+  "license": "MIT",
+  "insomnia": {
+    "name": "theme-rose-pine",
+    "displayName": "Rose Pine Dark Theme",
+    "description": "Unofficial Rose Pine theme. A dark theme for insomnia.",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.svg"
+    }
+  },
+  "keywords": [
+    "rose-pine",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsepi0ldev/insomnia-plugin-rose-pine.git"
+  },
+  "author": "Elivelton Santos <samsepi0l.dev@gmail.com>",
+  "dependencies": {
+    "@rose-pine/palette": "^3.0.1"
+  },
+  "type": "commonjs"
+}
