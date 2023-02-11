@@ -1,6 +1,6 @@
 module.exports = {
   name: 'theme-rose-pine',
-  displayName: 'Rose Pine Dark Theme',
+  displayName: 'Rosé Pine Dark Theme',
   theme: {
     background: {
       default: '#191724',
